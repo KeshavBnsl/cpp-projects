@@ -8,6 +8,7 @@ I am learning and improving my problem-solving skills step by step.
 - Positive/Negative Identifier
 - Uppercase/Lowercase Checker
 - Grade Calculator
+- Number Guessing Game
 
 ## 🧠 What I’m Learning
 - Conditional statements (if-else)

@@ -9,6 +9,7 @@ I am learning and improving my problem-solving skills step by step.
 - Uppercase/Lowercase Checker
 - Grade Calculator
 - Number Guessing Game
+- ATM Machine Simulator
 
 ## 🧠 What I’m Learning
 - Conditional statements (if-else)
